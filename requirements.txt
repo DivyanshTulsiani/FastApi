@@ -5,3 +5,6 @@ langchain
 langchain-google-genai
 langchain-community
 python-dotenv
+pypdf
+chromadb
+python-multipart
